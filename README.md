@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a sophomore at Dublin High school, interested in AI and ML Development. I enjoy working with different people and creating something meaningful
+I'm a sophomore at Dublin High school, interested in AI and ML Development. I enjoy working with different people, developing solutions to problems, and thinking outside the box!
 
 Some activities I enjoy are coding, Taekwondo, Speech and Debate, Robotics, and more!
 
@@ -12,7 +12,7 @@ Some activities I enjoy are coding, Taekwondo, Speech and Debate, Robotics, and 
 
 - **ReactJS**: Aspiring web developer
 - **CSS + TailwindCSS**: Styling apps and creating animations
-- **HTML + JavaScript**: Foundation in native HTML and JS
+- **HTML + JavaScript**: Experience with HTML and JavaScript
 - **JavaScript**: Learning Javascript to enhance my skills
 - **Python**: Experienced Python Programmer
 - **Pandas**: Working with data analysis
