@@ -57,12 +57,12 @@ Some activities I enjoy are coding, Taekwondo, Speech and Debate, Robotics, and 
 
 ### ☁️ Cloud & DevOps  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,vercel" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,vercel,firebase" />
 </a>
 
 ### ⚙️ Tools & Platforms  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,notion,latex,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,replit,notion,latex,windows,opencv" />
 </a>
 
 
