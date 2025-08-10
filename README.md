@@ -66,9 +66,25 @@ Some activities I enjoy are coding, Taekwondo, Speech and Debate, Robotics, and 
 </a>
 
 
-## Stats
-![Repo Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgaggar&theme=black-green)
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthgaggar&show_icons=true&theme=radical" alt="Samarth's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgaggar&theme=radical" alt="Samarth's GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgaggar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samarth-gaggar-385a9a292/)
+
+---
+
+> "Striving to blend creativity with technology to make a positive impact."
 
 ## Contact Me
 
