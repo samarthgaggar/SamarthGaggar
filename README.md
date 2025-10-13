@@ -74,7 +74,7 @@ Some activities I enjoy are coding, Taekwondo, Speech and Debate, Robotics, and 
 
 ---
 
-> "Striving to blend creativity with technology to make a positive impact."
+> Open to opportunities for research in AI/ML, internships, and other opportunities. Please contact me if you are seeking an active member to bring to the team.
 
 ## Contact Me
 
