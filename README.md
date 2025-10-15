@@ -1,5 +1,5 @@
 <h1>Hey, I'm Samarth Gaggar 👋 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7500&pause=1000&color=F0FFFC&vCenter=true&random=true&width=435&lines=A+Fullstack+Developer;A+Taekwondo+Athlete;A+Captain;A+Programmer;A+Web+Developer;A+Designer;A+Debater" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7500&pause=1000&color=F0FFFC&vCenter=true&random=true&width=435&lines=A+Fullstack+Developer;An+Athlete;A+Captain;A+Programmer;A+Web+Developer;A+Designer;A+Debater;A+Researcher" alt="Typing SVG" /></a>
 
 ## About Me
 
