@@ -5,7 +5,7 @@
 
 I'm a sophomore at Dublin High school, interested in AI and ML Development. I enjoy working with different people, developing solutions to problems, and thinking outside the box!
 
-Some activities I enjoy are coding, Taekwondo, Speech and Debate, Robotics, and more!
+Some activities I enjoy are Developing, Research, Robotics, and more!
 
 
 ## Skills
