@@ -17,6 +17,7 @@ Some activities I enjoy are Developing, Research, Robotics, and more!
 - **Python**: Experienced Python Programmer
 - **Pandas**: Working with data analysis
 - **Numpy**: Using libraries like Numpy
+- **C++**: Used for VEX Robotics Programming
 
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 
