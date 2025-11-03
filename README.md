@@ -29,46 +29,6 @@ Some activities I enjoy are Developing, Research, Robotics, and more!
 </p>
 -->
 
-<h3>
-  <a id="programming-languages"></a>
-  <picture style="display: inline;">
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px">
-  </picture>
-  Programming Languages
-</h3>  
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py" />
-</a>
-
-### 🌐 Web Development  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts," />
-</a>
-
-### ☁️ Cloud & DevOps  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,vercel,firebase" />
-</a>
-
-### ⚙️ Tools & Platforms  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,replit,notion,latex,windows,opencv" />
-</a>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthgaggar&show_icons=true&theme=radical" alt="Samarth's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthgaggar&theme=radical" alt="Samarth's GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthgaggar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samarth-gaggar-385a9a292/)
