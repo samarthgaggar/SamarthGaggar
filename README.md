@@ -3,8 +3,7 @@
 
 ## About Me
 
-I'm a sophomore at Dublin High school, interested in AI and ML Development. I enjoy working with different people, developing solutions to problems, and thinking outside the box!
-
+I'm a sophomore at Dublin High school, interested in AI and ML Development. 
 Some activities I enjoy are Developing, Research, Robotics, and more!
 
 
@@ -15,9 +14,9 @@ Some activities I enjoy are Developing, Research, Robotics, and more!
 - **HTML + JavaScript**: Experience with HTML and JavaScript
 - **JavaScript**: Learning Javascript to enhance my skills
 - **Python**: Experienced Python Programmer
-- **Pandas**: Working with data analysis
-- **Numpy**: Using libraries like Numpy
-- **C++**: Used for VEX Robotics Programming
+- **PyTorch**: Working with PyTorch for Deep Learning experimentation
+- **TensorFlow**: Using Tensorflow with RLHF
+- **C++**: Developing C++ programs for robotics and personal prokects
 
 <!--
 <p align="center">
