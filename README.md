@@ -6,25 +6,7 @@
 I'm a sophomore at Dublin High school, interested in AI and ML Development. 
 Some activities I enjoy are Developing, Research, Robotics, and more!
 
-
-## Skills
-
-- **ReactJS**: Aspiring web developer
-- **CSS + TailwindCSS**: Styling apps and creating animations
-- **HTML + JavaScript**: Experience with HTML and JavaScript
-- **JavaScript**: Learning Javascript to enhance my skills
-- **Python**: Experienced Python Programmer
-- **PyTorch**: Working with PyTorch for Deep Learning experimentation
-- **TensorFlow**: Using Tensorflow with RLHF
-- **C++**: Developing C++ programs for robotics and personal prokects
-
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,html,css,js,ts,react,sass,django,dotnet,postgres,postman,dynamodb,firebase,flutter,mysql,mongodb,sqlite,jenkins,jquery,linux,windows,md,gcp,git,github,gitlab,kubernetes,docker,c,aws,azure,redis,redux,vscode,anaconda,clion,cmake,vercel,vite,notion,latex," />
-  </a>
-</p>
--->
+Interests: Mechanistic Interpretability, LLM Reasoning, Trustworthy Machine Learning, LLM Behavior Analysis
 
 ## 📫 Connect with Me
 
