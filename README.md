@@ -17,5 +17,4 @@ Interests: Mechanistic Interpretability, LLM Reasoning, Trustworthy Machine Lear
 > Open to opportunities for research in AI/ML, internships, and other opportunities. Please contact me if you are seeking an active member to bring to the team.
 
 ## Contact Me
-
 Samarth.gaggar2010@gmail.com
