@@ -8,6 +8,10 @@ Some activities I enjoy are Research, Robotics, and more!
 
 Interests: Mechanistic Interpretability, LLM Reasoning, Trustworthy Machine Learning, LLM Behavior Analysis
 
+## Publications
+SALT: Steering Activations towards Leakage-free Thinking in Chain of Thought: https://arxiv.org/pdf/2511.07772
+
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samarth-gaggar-385a9a292/)
